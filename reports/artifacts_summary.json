@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-01-07 02:31",
+  "random_state": 42,
+  "models": [
+    "models/final_model.joblib",
+    "models/final_model__linearsvc_best_tuned.joblib",
+    "models/tfidf_linearsvc_best.joblib"
+  ],
+  "reports": [
+    "reports/step7_gridsearch_results.csv",
+    "reports/step8_cv_results.csv",
+    "reports/step8_error_analysis_false_negatives.csv",
+    "reports/step8_error_analysis_false_positives.csv",
+    "reports/step8_model_comparison.csv"
+  ]
+}
