@@ -154,7 +154,3 @@ References
 
 ---
 
-If you want, I can now:
-- commit this README to a git branch and push it,
-- add a `LICENSE` file or badges,
-- or expand any section (e.g., add exact TF-IDF params or include plots inline).
